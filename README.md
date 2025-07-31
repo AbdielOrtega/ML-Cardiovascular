@@ -11,9 +11,11 @@ Este repositorio contiene el proyecto de investigación sobre la relación de di
 - Elias González 
 
 ## Contenido
-- `/docs` → Documentos de descripción de cada columna de datos, análisis descriptivo y análisis estocástico (.pdf)
-- `/data` → Bases de datos utilizadas (.xls)
-- `/scripts` → Scripts de análisis estadístico(.py)
+→ Documentos de descripción de cada columna de datos, análisis descriptivo y análisis estocástico (.pdf)
+
+→ Bases de datos utilizadas (link de drive)
+
+→ Scripts de análisis estadístico(.py)
 
 ## Resumen
 La investigación busca analizar cómo diferentes factores como el consumo de alcohol, tabaco, la grasa corporal, el comportamiento entre otros, tiene relación con una mayor probabilidad de una enfermedad coronaria. 
