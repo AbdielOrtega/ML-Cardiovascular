@@ -1,19 +1,20 @@
 # ML-Cardiovascular
 Este es un proyecto de Machine learning sobre las enfermedades cardiovasculares usando navies bayes. 
-# Proyecto de Investigación: Acceso a servicios básicos en Panamá
-
-Este repositorio contiene el proyecto de investigación realizado por el grupo X sobre la relación entre el acceso a servicios básicos (agua, electricidad) y la ubicación geográfica en Panamá.
+# Proyecto de Investigación: enfermedades coronarias
+Este repositorio contiene el proyecto de investigación sobre la relación de diferentes variables que afectan al corazón y dan paso a enfermedades cardiovasculares. 
 
 ## Autores
-- Abdiel Ortega (@)
-- María Pérez (@mariaUser)
-- Juan Díaz (@juanUser)
+- Abdiel Ortega 
+- Ricardo Torres 
+- Rómel Rodríguez 
+- Jamal Menchaca
+- Elias González 
 
 ## Contenido
-- `/docs` → Documentos de investigación (.docx, .pdf)
-- `/data` → Bases de datos utilizadas
-- `/scripts` → Scripts de análisis estadístico
+- `/docs` → Documentos de descripción de cada columna de datos, análisis descriptivo y análisis estocástico (.pdf)
+- `/data` → Bases de datos utilizadas (.xls)
+- `/scripts` → Scripts de análisis estadístico(.py)
 
 ## Resumen
-La investigación busca analizar...
+La investigación busca analizar cómo diferentes factores como el consumo de alcohol, tabaco, la grasa corporal, el comportamiento entre otros, tiene relación con una mayor probabilidad de una enfermedad coronaria. 
 
