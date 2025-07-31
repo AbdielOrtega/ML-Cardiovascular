@@ -17,4 +17,5 @@ Este repositorio contiene el proyecto de investigación sobre la relación de di
 
 ## Resumen
 La investigación busca analizar cómo diferentes factores como el consumo de alcohol, tabaco, la grasa corporal, el comportamiento entre otros, tiene relación con una mayor probabilidad de una enfermedad coronaria. 
-
+[Descargar archivo desde Google Drive] (https://docs.google.com/spreadsheets/d/1Mu42KE_CM7MM1JIPoiE4bZ47B_f8xwhH/edit?usp=drivesdk&ouid=101215179025956516291&rtpof=true&sd=true) 
+ 
